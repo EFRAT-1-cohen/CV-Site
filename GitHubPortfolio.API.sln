@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubPortfolio.API", "GitHubPortfolio.API\GitHubPortfolio.API.csproj", "{6998B447-51E7-4E0A-8FD3-746415039FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubPortfolio.Service", "GitHubPortfolio.Service\GitHubPortfolio.Service.csproj", "{BEA5EE73-6CEC-4B10-A33F-63F7F371EE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6998B447-51E7-4E0A-8FD3-746415039FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6998B447-51E7-4E0A-8FD3-746415039FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6998B447-51E7-4E0A-8FD3-746415039FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6998B447-51E7-4E0A-8FD3-746415039FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA5EE73-6CEC-4B10-A33F-63F7F371EE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA5EE73-6CEC-4B10-A33F-63F7F371EE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA5EE73-6CEC-4B10-A33F-63F7F371EE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA5EE73-6CEC-4B10-A33F-63F7F371EE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31B71420-D440-4B1C-B599-B3429335D341}
+	EndGlobalSection
+EndGlobal

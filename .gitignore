@@ -1,0 +1,31 @@
+ECHO is on.
+################################################################################
+# קבצים ותיקיות שנוצרו על ידי Visual Studio
+################################################################################
+
+# תיקיות בנייה וקבצים מהודרים
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# הגדרות משתמשים וקבצי פתרונות (Solution files)
+*.user
+*.suo
+*.sln.docstates
+
+# קבצים זמניים וקבצי מטמון של Visual Studio
+# התיקייה שגרמה לשגיאה הקודמת:
+.vs/
+
+# קבצי חבילות (Packages) - ישוחזרו על ידי NuGet
+packages/
+
+# קבצי הגדרה מקומית (Secret management)
+# חשוב לוודא שקבצי סודות מקומיים לא עולים!
+appsettings.Development.json
+appsettings.Local.json
+*.localsettings
+
+# Log files
+*.log
